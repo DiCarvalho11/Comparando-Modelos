@@ -46,4 +46,4 @@
 7. **Exiba as importâncias usando Floresta Aleatória:**  
    - Mostre um gráfico com as 20 variáveis mais importantes  
 
-8. **Utilizando apenas as 5 covariadas mais importantes encontradas no item anterior, rode todos os modelos novamente e compare os melhores modelos encontrados usando todas as covariadas e os melhores modelos encontrados usando apenas as 5 mais importantes**
+8. **Utilizando apenas as 5 covariadas mais importantes identificadas anteriormente, rode todos os modelos novamente e compare os melhores modelos encontrados usando todas as covariadas e os melhores modelos encontrados usando apenas as 5 mais importantes**
